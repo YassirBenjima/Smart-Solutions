@@ -24,9 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yassir_benjima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassir benjima" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yassir benjima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassir benjima" height="30" width="40" /></a>
-<a href="https://fb.com/yassir benjima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassir benjima" height="30" width="40" /></a>
-<a href="https://instagram.com/yassir benjima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassir benjima" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yassir-benjima-43339a247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassir benjima" height="30" width="40" /></a>
+<a href="https://fb.com/FarmNolife/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassir benjima" height="30" width="40" /></a>
+<a href="https://instagram.com/yassir_benjima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassir benjima" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
